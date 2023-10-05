@@ -64,3 +64,5 @@ rename to mystudent;
 
 ### OUTPUT:
 ![271910625-e2f4e148-4f54-401b-89c7-4c192eb48a49](https://github.com/Aravindsamy04/F2_DBMS/assets/113497037/dab9328b-8f37-4936-8f63-75ea6260b1c1)
+### RESULT:
+Hence successfully created a student database and execute DDL queries using SQL.
